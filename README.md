@@ -25,7 +25,7 @@
     <a href="https://github.com/SIPHOSETHU2303/Portfolio/issues">Request Feature</a>
 </h3>
 
-## TL;DR
+
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [SIPHOSETHU2303](https://github.com/SIPHOSETHU2303/Portfolio). Thanks!
 
