@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">siphosethu.tech</a>
+  <a href="https://siphosethu.vercel.app/" target="_blank">siphosethu.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -19,7 +19,7 @@
 </center>
 
 <h3 align="center">
-    🔹
+    
     <a href="https://github.com/SIPHOSETHU2303/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
     <a href="https://github.com/SIPHOSETHU2303/Portfolio/issues">Request Feature</a>
