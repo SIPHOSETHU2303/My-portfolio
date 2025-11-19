@@ -1,11 +1,6 @@
 h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Website - v1 <br/>
   <a href="https://siphosethu.vercel.app/" target="_blank">siphosethu.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
-<br/>
 <center>
 <h3 align="center">
       <a href="https://github.com/SIPHOSETHU2303/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
@@ -13,6 +8,7 @@ h2 align="center">
 </h3>
 
 Built With
+Javascript
 
 My personal portfolio <a href="https://siphosethu.vercel.app/" target="_blank">siphosethu.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
