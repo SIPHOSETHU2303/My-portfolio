@@ -1,15 +1,46 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <link rel="icon" href="%PUBLIC_URL%/favicon.png" />
- <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-  <title>Siphosethu | Portfolio</title>
-  <meta name="description" content="Self Developed personal website build with React.js">
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Siphosethu Rululu — Developer</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-  <noscript>You need to enable JavaScript to run this app.</noscript>
-  <div id="root"></div>
-</body>
+  <header class="site-header">
+    <div class="brand">Sb.</div>
+    <nav class="nav">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="projects.html">Projects</a>
+      <a href="resume.html" class="btn-resume">Resume</a>
+    </nav>
+    <button class="mobile-toggle" id="mobileToggle">☰</button>
+  </header>
 
+  <main class="hero">
+    <div class="hero-inner">
+      <div class="hero-text">
+        <p class="hello">Hi There! <span class="wave"></span></p>
+        <h1>I'M <span class="name">SIPHOSETHU</span></h1>
+        <h2>Developer<span class="cursor">|</span></h2>
+        <p class="cta">
+          <a href="projects.html" class="cta-btn">View Projects</a>
+        </p>
+      </div>
+
+      <div class="hero-image">
+        <!-- Replace this src with your illustration (assets/hero.png) -->
+        <img src="assets/hero.png" alt="Developer illustration">
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>© <span id="year"></span> Siphosethu Rululu — Built with </p>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
 </html>
