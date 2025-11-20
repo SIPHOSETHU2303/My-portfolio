@@ -1,5 +1,5 @@
 
-  Portfolio Website - v1 <br/>
+  Portfolio Website 
   <a href="https://siphosethu.vercel.app/" target="_blank">siphosethu.tech</a>
 <center>
 <h3 align="center">
